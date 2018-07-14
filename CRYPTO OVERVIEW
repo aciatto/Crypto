@@ -1,5 +1,42 @@
 // CRYPTO OVERVIEW //
 
 The purpose of this file will be to introduce the basic components of cryptocurrency. 
-By gaining an appreciation for the technology, studying the movements of the prices will be more interesting.
+By first gaining an appreciation for the technology, studying the movements of the prices will be more interesting.
+
+*Cracks knuckles to begin typing
+
+I believe that two factors allowed the stars to align and for cryptocurrency to be born: The Internet and 2008.
+
+In the early 90s, the Internt surged in popularity. This was a period known as the "Dot com" era as anyone with
+a website could raise ungodly sums of money as they spoke of grand visions of a digital society where all problems
+could be solved online. Sound like any other emerging technology today? Anyway, in addition to the websites themselves,
+entrepreneuers were excited about building a payment system that was native to the Internet. Some easy way to send
+money over the Internt. Paypal emerged and was great, but it still has to go through traditional financial intermediaries.
+True technologists wanted something that was created, owned, transferred, and stored completely online.
+
+They wanted digital money.
+
+The problem that these folks kept running into is what is known as the "double-spending" problem. Imagine three people,
+Alice, Bob, and Carl. If Alice has 5 digital dollars, it was seemingly impossible to stop Alice from making a copy of
+her digital money and sending 5 to Bob and 5 to Carl. It was the problem any Internet site was running into with
+illegal file sharing. This double-spending problem was frustrating and many people moved on from the idea of digital money.
+
+Flash forward.
+
+It's 2008. The world economy was crumbling in large part from the poor decisions made by leaders of global financial
+institutions, especially big Wall Street banks. Even if your money was not directly invested with one of these
+banks or its affiliates, billions of people were affected in some way by unemployment, falling stock prices,
+or depreciating home values. The U.S. government and others deemed the big financial institutions as central to 
+our economy, and did everything in their power to save them. In other words, the government decided that these
+institutions were "Too Big To Fail". There are two points of view that have emerged since the crisis.
+(1) The government was wise to step in and apply the stimulus that they did as it prevented even further damage.
+(2) The government is propping up businesses that will not learn from their mistakes, and are raising taxes
+and national debt to save these banks. In 2018, the economy looks strong, but fears of the debt, trade wars,
+and other macroeconomic concerns remain. The Federal Reserve has slowly raised rates to 1.5% since it slashed them from 4% to 0%
+back in 2008-2010, but if the economy crashes in the next couple of years, what other tools are available? Cutting
+rates from where they are to 0% might not be enough. There were a number of people that were dissatisfied with what Wall Street 
+created and how the Federal Reserve responded by effectively creating a national debt through their quantitative easing program.
+
+Enter Bitcoin.
+
 
