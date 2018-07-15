@@ -1,6 +1,6 @@
 # Research Questions to Explore
 
-*bold questions that are currently being researched/completed*
+**bold** questions that are currently being researched/completed
 
 ### Ethereum Price Data
 
