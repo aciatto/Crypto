@@ -81,12 +81,28 @@ of miners to act dishonestly which is very impractical and shows how sufficientl
 That is the beauty of cryptocurrency and the blockchain. It uses a peer-to-peer network to prevent double-spending, and
 it's completely decentralized with no server or central authority.
 
+In addition to verifying transactions, Satoshi created a system to carefully regulate the supply of Bitcoins. As previously
+mentioned, there are people very much concerned about inflation in their countries. They have little control over the money
+supply and could easily see their wealth destroyed by rampant inflation (e.g. Venezuela). Satoshi proposed a careful
+"reward schedule" that baked moderate inflation into the ecosystem, but would not allow a central entity to print more money
+than what was originally planned.
 
+Minders are incentivized to honestly verify transactions, because if they do, they have a chance to receive a reward of Bitcoin.
+This mining process is how new Bitcoins are brought into existence. A block of transactions is mined/confirmed every ten minutes.
+Among the miners that helped confirm the block, one is selected to receive a Bitcoin reward. The reward used to be 50 BTC/block,
+but has been halved to 25 and again to 12.5. In a graph of supply versus time, the function approaches the asymptote of the 
+"final" amount of BTC that will be in circulation, 21 million coins.
 
 
 This document could proceed endlessly, but I think that it is important to leave more of the story up for discovery.
 It is time to go into the world and learn more about this emerging field and make sense of the chaos through careful
 analysis. 
 
-In a paraphrase of Elon Musk, "At first they'll say it's impossible, then they'll say it's inevitable"
+There are many many many people that don't think cryptocurrency will catch on and it's just a scam.
+I encourage you to read the Bitcoin white paper in the repository. I do not believe it is a scam. It is simply the presentation
+of a very interesting experiment. An experiment that has almost died many times but has repeatedly returned stronger than before.
+
+If I wanted to be extreme and say that people are underestimating crypto I'd say something like this...
+
+"At first they'll say it's impossible, then they'll say it's inevitable"
 
