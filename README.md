@@ -1,9 +1,6 @@
 # Crypto
 Data analysis of cryptocurrency
 
-# READ ME
-
-
 ### PURPOSE
 The purpose of this repository is 3 fold:
 
