@@ -1,5 +1,5 @@
 # Crypto
-Data analysis of cryptocurrency
+* A data analysis of cryptocurrency project *
 
 ### PURPOSE
 The purpose of this repository is 3 fold:
